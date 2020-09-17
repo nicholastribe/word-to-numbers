@@ -1,0 +1,33 @@
+{
+  "name": "word-to-numbers",
+  "version": "1.0.0",
+  "description": "Convert written numbers into digits",
+  "main": "wordToNumbers.js",
+  "directories": {
+    "lib": "lib",
+    "conversion": "conversion",
+    "tests": "tests"
+  },
+  "scripts": {
+    "test": "node tests/basic-test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nicholastribe/word-to-numbers"
+  },
+  "keywords": [
+    "words to numbers",
+    "converter",
+    "word",
+    "number",
+    "numeral",
+    "digit",
+    "ordinal"
+  ],
+  "author": "Nicholas Tribe",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nicholastribe/word-to-numbers/issues"
+  },
+  "homepage": "https://github.com/nicholastribe/word-to-numbers"
+}
